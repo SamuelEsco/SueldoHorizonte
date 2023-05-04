@@ -4,4 +4,6 @@
 ## Integrantes del equipo de desarrollo
 | Apellidos y Nombres | Rol |
 | ------------------- | --- |
-
+| Escobar Ccanto Samuel | SCRUM master |
+| Solis Pecho, Manuel | Dueño del proyecto |
+| Bueno Ponce, Pedro | Desarrollador |
